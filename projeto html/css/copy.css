@@ -1,0 +1,62 @@
+html{
+    background-color: lightgray;
+  }
+  #começo{
+    justify-content: space-between;
+    border: 2px solid darkblue;
+    align-items: center;
+    display: flex;
+    background-color: bisque;
+    color: darkgreen;
+  }
+  #paginas{
+    justify-content: space-evenly;
+    display: flex;
+    background-color: lightskyblue;
+  }
+  #introducao{
+    text-align: center;
+  }
+  #textos{
+    color: indigo;
+    font-family: sans-serif;
+    size: 20pt;
+  }
+  #livros{
+    text-align: center;
+  }
+  #livros1{
+    display: flex;
+    justify-content: space-evenly;
+    }
+  #aprenda{
+    text-align: center;
+  }
+  #iframe{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  #contatos{
+    text-align: center;
+    }
+  #tabela{
+    display: flex;
+    justify-content: center;
+  }
+  #lista{
+   position: relative;
+   top: 000px;
+   left: 730px;
+   width: 400px;
+   background-color: yellow;
+  }
+  #final{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    background-color: bisque;
+    font-family: 'Comic Sans MS';
+    size: 15pt;
+  }
+  
